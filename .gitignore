@@ -1,0 +1,11 @@
+//
+//  .gitignore
+//  blip
+//
+//  Created by Brandon Robb on 4/24/25.
+//
+
+.env
+GoogleService-Info.plist
+video-script.docx
+app-demo.mov
