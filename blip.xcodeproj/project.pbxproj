@@ -11,7 +11,6 @@
 		682960E52DBEAE710022C229 /* ProfileViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 682960E42DBEAE6D0022C229 /* ProfileViewModel.swift */; };
 		682960E72DBEAE7F0022C229 /* ProfileView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 682960E62DBEAE7C0022C229 /* ProfileView.swift */; };
 		682D47D22DBA8ED9008634E7 /* ChatApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 682D47D12DBA8ED9008634E7 /* ChatApp.swift */; };
-		682D47D42DBA8ED9008634E7 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 682D47D32DBA8ED9008634E7 /* ContentView.swift */; };
 		682D47D62DBA8EDB008634E7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 682D47D52DBA8EDB008634E7 /* Assets.xcassets */; };
 		682D48032DBA9432008634E7 /* FirebaseAnalytics in Frameworks */ = {isa = PBXBuildFile; productRef = 682D48022DBA9432008634E7 /* FirebaseAnalytics */; };
 		682D48052DBA9432008634E7 /* FirebaseAuth in Frameworks */ = {isa = PBXBuildFile; productRef = 682D48042DBA9432008634E7 /* FirebaseAuth */; };
@@ -42,7 +41,6 @@
 		682960E62DBEAE7C0022C229 /* ProfileView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileView.swift; sourceTree = "<group>"; };
 		682D47CE2DBA8ED9008634E7 /* blip.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = blip.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		682D47D12DBA8ED9008634E7 /* ChatApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChatApp.swift; sourceTree = "<group>"; };
-		682D47D32DBA8ED9008634E7 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		682D47D52DBA8EDB008634E7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		682D47E12DBA9081008634E7 /* Channel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Channel.swift; sourceTree = "<group>"; };
 		682D47E22DBA9086008634E7 /* ChatMessage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChatMessage.swift; sourceTree = "<group>"; };
@@ -85,7 +83,6 @@
 				682D480F2DBA94AF008634E7 /* .gitignore */,
 				68CD1AFE2DBA952F007CFF30 /* GoogleService-Info.plist */,
 				682D47D12DBA8ED9008634E7 /* ChatApp.swift */,
-				682D47D32DBA8ED9008634E7 /* ContentView.swift */,
 				682D47D52DBA8EDB008634E7 /* Assets.xcassets */,
 				682D47DF2DBA8F30008634E7 /* Services */,
 				682D47DE2DBA8F26008634E7 /* Views */,
@@ -233,7 +230,6 @@
 				68CD1B032DBA96C5007CFF30 /* FirestoreService.swift in Sources */,
 				682960E52DBEAE710022C229 /* ProfileViewModel.swift in Sources */,
 				680692A42DBD7AF30083E9E0 /* RTDBService.swift in Sources */,
-				682D47D42DBA8ED9008634E7 /* ContentView.swift in Sources */,
 				68CD1B062DBA96D5007CFF30 /* LoginView.swift in Sources */,
 				68CD1B0D2DBA96D5007CFF30 /* ChannelsListView.swift in Sources */,
 				68CD1B182DBA96E5007CFF30 /* Channel.swift in Sources */,
